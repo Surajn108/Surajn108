@@ -28,7 +28,7 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/suraj-navale-2203492a6/)  
+- LinkedIn:   [LinkedIn](https://www.linkedin.com/in/suraj-navale-2203492a6/)  
 - Instagram: [@surajnawale__](https://www.instagram.com/surajnawale__/ )  
 
 ---
