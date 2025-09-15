@@ -33,12 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-[![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surajn108&show_icons=true&theme=dark)](https://github.com/Surajn108)
-
----
-
 ### ⚡ Fun Fact
 
 I believe clean code is like good poetry — simple, expressive, and elegant.
