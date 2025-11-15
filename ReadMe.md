@@ -14,7 +14,7 @@
 
 | Frontend | Backend | Other Tools & Skills |
 |---|---|---|
-| HTML5 · CSS3 · JavaScript · EJS · Bootstrap | Node.js · Express · MongoDB (Mongoose) | Git · REST APIs · Deployment · Problem Solving · DSA |
+| HTML5 · CSS3 · JavaScript · EJS · Bootstrap | Node.js ·React · Express · MongoDB (Mongoose) | Git · REST APIs · Deployment · Problem Solving · DSA |
 
 ---
 
