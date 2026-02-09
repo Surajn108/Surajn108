@@ -59,15 +59,13 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Surajn108&show_icons=true&theme=tokyonight&border_radius=12" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajn108&theme=tokyonight&border_radius=12" height="165"/>
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajn108&layout=compact&theme=tokyonight&border_radius=12" height="165"/>
-</p>
+
+
 
 ---
 
