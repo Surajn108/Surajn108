@@ -1,79 +1,94 @@
-<!-- Profile Banner -->
+<!-- ================= HEADER BANNER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Suraj%20Navale&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Suraj%20Navale&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">Hi there 👋 I'm Suraj Navale</h2>
+<!-- ================= TYPING INTRO ================= -->
 
 <p align="center">
-  Engineer • Full-Stack Developer • Lifelong Learner
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Engineer;Open-Source+Learner;Building+Real-World+Projects" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ================= AVATAR ================= -->
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/Surajn108" width="140" style="border-radius:50%" />
+</p>
+
+<h3 align="center">Hi there 👋 I'm Suraj Navale</h3>
+
+<p align="center">
+  Engineer • Developer • Lifelong Learner
+</p>
+
+---
+
+# 🧑‍💻 About Me
 
 - 📍 Based in **Pune, Maharashtra, India**  
-- 💻 Passionate about **Full-Stack Web Development**  
-- 📚 Student, software enthusiast & lifelong learner  
-- 🧠 Strong interest in **system design & backend architecture**  
-- ⚡ Love turning ideas into real-world products  
+- 💻 Full-Stack Developer (MERN)  
+- 🧠 Interested in **Backend Systems & Architecture**  
+- 📚 Always learning & building  
+- ⚡ I turn coffee into code ☕  
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-### 🚀 Frontend
+### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ejs" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🧰 Tools & Skills
+### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
-
-- REST APIs  
-- Deployment  
-- Problem Solving  
-- Data Structures & Algorithms  
 
 ---
 
-## 🔭 Currently Working On
-
-- 🧳 **TripNest** — Travel accommodation listing platform  
-- 🧠 Practicing **DSA & algorithms**  
-- ☁️ Exploring **cloud deployment & backend scaling**  
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Surajn108&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Surajn108&show_icons=true&theme=tokyonight&border_radius=12" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajn108&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajn108&theme=tokyonight&border_radius=12" height="165"/>
 
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surajn108&theme=tokyo-night"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajn108&layout=compact&theme=tokyonight&border_radius=12" height="165"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🔭 Current Focus
+
+- 🧳 Building **TripNest** — Travel accommodation platform  
+- 🧠 Practicing **DSA & problem solving**  
+- ☁️ Learning **deployment & cloud infra**  
+- ⚙️ Exploring backend performance optimization  
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -93,20 +108,34 @@
 
 ---
 
-## 🧠 Fun Fact
+# ✍️ Latest Blogs
 
-> I believe clean code is like good poetry — simple, expressive, and elegant.
+📚 I regularly write beginner-friendly dev blogs:
+
+➡️ **https://blogwithsuraj.hashnode.dev**
 
 ---
 
-## 👀 Profile Visitors
+# 🧠 Fun Fact
+
+> Clean code is like poetry — simple, expressive, elegant.
+
+---
+
+# 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Surajn108&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Surajn108&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 <p align="center">
   ⭐ From <a href="https://github.com/Surajn108">Suraj Navale</a>
+</p>
+
+<!-- ================= FOOTER WAVE ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
