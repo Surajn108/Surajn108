@@ -110,7 +110,7 @@
 
 # ✍️ Latest Blogs
 
-📚 I regularly write beginner-friendly dev blogs:
+📚 I also write beginner-friendly dev blogs:
 
 ➡️ **https://blogwithsuraj.hashnode.dev**
 
